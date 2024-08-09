@@ -6,19 +6,14 @@
 
 
 - 🔭 Estou trabalhando com <b>backend</b>
-- 🌱 Estou estudando atualmente <b>APIs Rest em Javascript</b>
+- 🌱 Estou estudando atualmente <b>Desenvolvimento agil com .NET e Entity Framework</b>
 - 📫 Contate-me através do email: <b>sousa.pauloricardo00@gmail.com</b>
 - 😄 Pronomes: <b>Ele/Dele</b>
 
 <h2>Estatísticas no GitHub</h2>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sousapauloricardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousapauloricardo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sousapauloricardo&theme=tokyonight"/>
 </div>
 
